@@ -1,0 +1,16 @@
+.flex-center-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.p-5{
+  padding: 5px;
+}
+
+.mt-10{
+  margin-top: 10px;
+}
+
+.mb-10{
+  margin-bottom: 10px;
+}
